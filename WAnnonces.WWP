@@ -1,0 +1,357 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WAnnonces
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Site
+    internal_properties : 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
+    configuration_id : 14924192535360953728
+    type : 2
+    generation_name : WAnnonces.wdl
+    version :
+     version : 1.00Ah
+    index_page_generation_name : index
+    language : 1
+    64bits : true
+ elements :
+  identifier : 0x4f2aae6b0002c2e1
+  elements :
+   -
+     name : depot
+     identifier : 0x4f2fbbcd003355dd
+     internal_properties : CAAAAAgAAAAnIw8TkM1lBtBKOrfoNr1x37w68sTIOqip0/SPjIML/c8h+uWbZSkYcagS7rYq1soyMg==
+     physical_name : .\depot.wwh
+     type : 65538
+   -
+     name : deconnexion
+     identifier : 0x4f59e84900aa1af6
+     internal_properties : CAAAAAgAAAC6kOImhcJqdX2nAxgBkOC0Lk/1bUApjzCL1YTkJ8nLFS/nMi1CvoDxHgX/+bk3wzWfpw==
+     physical_name : .\deconnexion.wwh
+     type : 65538
+   -
+     name : TEST_WAnnonce
+     identifier : 0x4f966f9800b19f97
+     internal_properties : CAAAAAgAAADBvTltWgcvwI70kImCEmM7UcJ8/Erk6I6l4UiFQN8/iadlsq3BPw9+61JMtHx0DPzETA==
+     physical_name : .\TEST_WAnnonce.wxt
+     type : 17
+   -
+     name : annonce
+     identifier : 0x4f2fbbc1003127f7
+     internal_properties : CAAAAAgAAAAeBHYqmcZuAckz31TNjtCsAhchQXdD4CmpI7rBSKftw3m1JDs2gkw9qpEL9b0zz8ELCw==
+     physical_name : .\annonce.wwh
+     type : 65538
+   -
+     name : PAGEMOD_MiseEnPage
+     identifier : 0x4f2fb92a002d06a4
+     internal_properties : CAAAAAgAAABfO7drWAUtPojykg8QwhXR11TSii0OThNzIzT0Ae8v+TPtzoHzzZGA6VBKtn5yDoJKyg==
+     physical_name : .\PAGEMOD_MiseEnPage.wwt
+     type : 65541
+   -
+     name : PAGEMOD_Principal
+     identifier : 0x4f2bedb5000afaa8
+     internal_properties : CAAAAAgAAAAvKwcbqNVdDthCIr/gc4G9P07mvpaGf/lOz/n8s5z2GjraPRJjXSEQeaAa5q4i3tI6Og==
+     physical_name : .\PAGEMOD_Principal.wwt
+     type : 65541
+   -
+     name : profil
+     identifier : 0x4f3b98f9002a224b
+     internal_properties : CAAAAAgAAAD4ViB8y/C44+8VtS53oz4WjC9LU2+n+dNxgX4SL8DUdJhGk1wU7LKjzHNtS8sF/fPdZQ==
+     physical_name : .\profil.wwh
+     type : 65538
+   -
+     name : recherche
+     identifier : 0x4f2fbba5002fb98d
+     internal_properties : CAAAAAgAAAApJRF1su/H6PYsmJG6728fEWw4+NzwZy2hjSuQn4AS/vrWJbrJNwd2k4p0TNQM9OQsNA==
+     physical_name : .\recherche.wwh
+     type : 65538
+   -
+     name : adhesion
+     identifier : 0x4f3b9ad1002c54c3
+     internal_properties : CAAAAAgAAAAPC2e7iDV9rrjiQt9ApjVJ10QSSpwM4B6iY1Z7zFM7/d8h2nUD/cGw2UC6Bo5CPrIaGg==
+     physical_name : .\adhesion.wwh
+     type : 65538
+   -
+     name : REQ_ListePays
+     identifier : 0x4f5e1f4900b42ee6
+     internal_properties : CAAAAAgAAABn409TUA0lxpAK+veo/2m9V+a+Vv55ViyOu62rB6jqxk72wa7bJelYsWhSrnZqFopy8g==
+     physical_name : .\REQ_ListePays.WDR
+     type : 5
+   -
+     name : MDLC_Sponsors
+     identifier : 0x4f2fa810002b3ad9
+     internal_properties : CAAAAAgAAACMiuQwD7T8LztR8eqj82pCWNun79wNXk5IRukHCDhkvEj2w6zYIO5fiL85hw/BuS+ZmQ==
+     physical_name : .\MDLC_Sponsors.wwt
+     type : 65543
+   -
+     name : aide
+     identifier : 0x4f2fbbd90035844f
+     internal_properties : CAAAAAgAAAC6kOImhcJqdX2nAxgBmuSoNrv1pTsXsyupM55lJAsBJy3RKDdCvoDxHgX/+bk3wzWfpw==
+     physical_name : .\aide.wwh
+     type : 65538
+   -
+     name : PAGEMOD_BoiteConnexion
+     identifier : 0x4f34fffb00275a16
+     internal_properties : CAAAAAgAAAAtKQUZppObRBKYZH0msCuDFSJYSBqrEN52CeUSIg0J5xEzhGsdm2PSP+bQKOgY4NA4OA==
+     physical_name : .\PAGEMOD_BoiteConnexion.wwt
+     type : 65541
+   -
+     name : pOutilsWeb
+     identifier : 0x4f3505e200296959
+     internal_properties : CAAAAAgAAACLh/OXFFHZgky2VkPUj8WJ49Ja0vq891+ihrsKr2Aqnm5GkV4viVXELRSOaiqmUkaOlg==
+     physical_name : .\pOutilsWeb.wwn
+     type : 65539
+   -
+     name : favoris
+     identifier : 0x4f6078d700335c50
+     internal_properties : CAAAAAgAAADCuDpuXQoiPYX/qwAZxXgkZlk19dEuX8d3SrvFnYIK/vLILaLq1piJ5l1HsXFvC/3HTw==
+     physical_name : .\favoris.wwh
+     type : 65538
+   -
+     name : COL_WAnnonce
+     identifier : 0x4f5a378a022cb66c
+     internal_properties : CAAAAAgAAADxTSl9yve/8P4kgJmyP8d3aXRwUHRW2dK9l9c2n5AC/soWxarRL/9um4J8RMwE/OzUXA==
+     physical_name : .\COL_WAnnonce.wdg
+     type : 7
+   -
+     name : recup_motdepasse
+     identifier : 0x4f3bbb9300324ae1
+     internal_properties : CAAAAAgAAAByyKr+TTpyrbXvW9BJJxwwXh2V3f2NMBxGw4E6c4wAEODSC9S6Bsi51k23AYF/e21X3w==
+     physical_name : .\recup_motdepasse.wwh
+     type : 65538
+   -
+     name : mes_annonces
+     identifier : 0x4f2fbbe50037b2b2
+     internal_properties : CAAAAAgAAACJhfGVEk/niFbMuDEaCTtjyUgw6OjkIstxYXFC/TJgSKBwq6Tp16eW8yqUbDSsVESMlA==
+     physical_name : .\mes_annonces.wwh
+     type : 65538
+   -
+     name : connexion_profil
+     identifier : 0x4f3bb425002e45dd
+     internal_properties : CAAAAAgAAAAgHhgEo5iQSxeNfXYvh7bWVDeTi7eXbsSbVq4G21RAqATaHzBcpGrbNOvVI+Md5dslLQ==
+     physical_name : .\connexion_profil.wwh
+     type : 65538
+   -
+     name : categories
+     identifier : 0x4f3008100024050a
+     internal_properties : CAAAAAgAAAB/21dLeCWNnqjScm8wsbXZvxIeFrov7BS2eWDvrWKoGOzAHzBTrXHgCTCqFp5SLqJq6g==
+     physical_name : .\categories.wwh
+     type : 65538
+   -
+     name : REQ_EnumAtt
+     identifier : 0x4f60df930034ebef
+     internal_properties : CAAAAAgAAAAQ7khUUwggO4f9rQYfCTpixLsDGyMYA/dSmjKtMW6uGpJsraLs1JqL5FtFs3NtFYt1/Q==
+     physical_name : .\REQ_EnumAtt.WDR
+     type : 5
+   -
+     name : MDLC_BandeauConnexion
+     identifier : 0x4f329349002678bd
+     internal_properties : CAAAAAgAAADEQiwIt+zE5/M56cJLVhLCWDmXT4E4jLlTr0tAEB91ux3lEM+wCNZHoIdxT9cJ8efRUQ==
+     physical_name : .\MDLC_BandeauConnexion.wwt
+     type : 65543
+   -
+     name : index
+     identifier : 0x4f2fa4f100290925
+     internal_properties : CAAAAAgAAACyiOo+DXoybXWvGxAJHcgEFnlVBbH94kC1fDisZdoy9tog1Zr6xoj5Fg33wUG/uy2Xnw==
+     physical_name : .\index.wwh
+     type : 65538
+   -
+     name : REQ_RechercheBase
+     identifier : 0x4f5e28d300b87486
+     internal_properties : CAAAAAgAAABLx7NXVBEZwoz2lgMUGcldk9YSSo7RJs1KyOt9/YKQmBSIt6jvyZWE7VROqmpmEoZO1g==
+     physical_name : .\REQ_RechercheBase.WDR
+     type : 5
+   -
+     name : REQ_AnnonceParPays
+     identifier : 0x4f5e20a600b6824d
+     internal_properties : CAAAAAgAAAAvKwcbqNVdDthCIr/gllXJl+RSSpzvV0RCDppOnAML7S+RKiVjXSEQeaAa5q4i3tI6Og==
+     physical_name : .\REQ_AnnonceParPays.WDR
+     type : 5
+  other_elements : []
+  analysis : .\WAnnonces.ana\WAnnonces.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components :
+   -
+     physical_name : .\CompteInternet\CompteInternet.wci
+ common_generation_directory : true
+ wb_skin : 170 Elegant
+ wb_color_palette : Gena & Light
+ site_type : 3
+ languages :
+  - fr-FR
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : adhesion
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+   -
+     name : aide
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+   -
+     name : annonce
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+   -
+     name : categories
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+   -
+     name : connexion_profil
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+   -
+     name : deconnexion
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : depot
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+   -
+     name : favoris
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+   -
+     name : index
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+   -
+     name : mes_annonces
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+   -
+     name : profil
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+   -
+     name : recherche
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+   -
+     name : recup_motdepasse
+     parameters : []
+     title :
+      fr-FR : WAnnonces
+     description :
+      fr-FR : WAnnonces
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAConh+QH4RisEUbDBu/Mw+x35Zz0o+77gPKHI74izzOse6BCwpBJ586aqs1NQyAdQzjuDEocl4ViWUE8r5AtNY1sUmjUA==
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADACSTwFz6QM/8Ir1BpvmxzwD7ppYrGhf6kIri5s4ZE8zjWw9hQfkFl3aWFG5j0imFPdMht0tfuht5JO0+pwvgtdD7s/wfR0SfdyzpMUeajzN7ksoPyrOI3zzdex+HG93RIg9cjjhhEYUtx0kunr9euc4w1zoVyCEglGcSIuOhrdfKV+pvYwNuYK3zcS8Jy15WE
+     code : |1+
+      // Variables globales du projet
+      
+      // Le répertoire de téléchargement est un sous répertoire du répertoire _WEB du site
+      // Ce répertoire sera créé automatiquement au premier upload s'il n'existe pas
+      gsRepertoireDownload est une chaine = fSéparateur(fRepWeb()+["\"]+"upload\")
+      
+      // Répertoire temporaire dans lequel les fichiers uploadés sont placés avant d'être déplacés dans _WEB
+      gsRepTempUpload est une chaine = fSéparateur(fRepDonnées()+["\"]+"tmp\")
+      fRepCrée(gsRepTempUpload)
+      
+      // La variable gsLienRepertoireDownload est le chemin d'accès au répertoire défini ci dessus en code navigateur
+      gsLienRepertoireDownload est une chaine = "/"+RépertoireWeb()+"/upload/"
+      
+      // Variable pour contenir le texte des toasts
+      gsTexteToast est une chaine
+      
+      // Change le timeout des connexions SMTP pour 10 secondes (au lieu de 10 minutes par défaut)
+      EmailChangeTimeOut(10)
+     type : 196608
+   -
+     internal_properties : CAAAAAgAAACNcwdMpAAwRPyT5bxM3j3VUtwxZ3MnnXZdpyWBE59MdkeHlFAlX4cb+qlmVPDMGjfzyb64N8fFjphRhWmtOnATn+PZXu00kHFp6QvAvGSp9Maf1cYkdYaSRCUT9WmIfo9xJ8MG8H+wZDgvtw78WKUOI+U+NLK2X24tarZbIccLc+Z8cX3zbpJYT7c44AXX3fXCvHvudgA6f0K0LL4Mtw==
+     code : |1+
+      
+      // Configuration du contexte AWP
+      ConfigureContexteAWP(ctxDisque)
+      
+      DéclareContexteAWP(gsTexteToast)
+      
+      // Initialisation du composant interne de gestion des comptes Internet
+      InitialiseGestionCompteInternet()
+      // Puis renseigne les globales dont les valeurs par défaut sont personnalisées pour ce site
+      // Le site n'utilise pas l'activation par email, les comptes utilisateurs sont immédiatement actifs
+      COL_GestionCompte.gbActivationParEmail = Faux
+      COL_GestionCompte.gsEmailSupportTechnique = "assistance@wannonces.com"
+      COL_GestionCompte.gsPageAccueil = "index.awp"
+      COL_GestionCompte.gsPageEspacePerso = "profil.awp"
+      
+      // Initialisation de la collection de procédures principale du projet 
+      InitialiseWAnnonce()
+      
+     type : 196626
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x4f2aae6c0003c458
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
